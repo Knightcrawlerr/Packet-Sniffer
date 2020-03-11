@@ -1,4 +1,4 @@
-#!/usr/bin/env/ python3
+#!/usr/bin/python3
 
 from scapy.all import *
 from scapy.layers import http
